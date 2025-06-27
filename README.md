@@ -39,18 +39,6 @@
 ## ⚡ Fun Fact:
 I believe coding isn't just about logic — it's also about **empathy and creativity**! ❤️
 
----
-
-## 🧰 My Tech Stack:
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
 
 > “You don’t need to be perfect. You just need to be **consistent and curious**.” 💖  
 > — *Nandini Sharma*
@@ -59,7 +47,7 @@ I believe coding isn't just about logic — it's also about **empathy and creati
 ![](https://github-profile-trophy.vercel.app/?username=Nandini26sharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandini-sharma-110211224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nandinisharma26052003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NandiniSha11364) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nandini Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandinisharma26052003@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandini-sharma-110211224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nandinisharma26052003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NandiniSha11364)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandinisharma26052003@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -78,7 +66,7 @@ I believe coding isn't just about logic — it's also about **empathy and creati
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nandini26sharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
